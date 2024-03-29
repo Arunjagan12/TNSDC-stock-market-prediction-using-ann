@@ -35,6 +35,3 @@ The neural network model used for stock market prediction consists of multiple d
 
 After training the model, predictions are made on test data, and the performance of the model is evaluated using MSE and RMSE metrics. Additionally, the predicted values are plotted against the actual stock prices to visualize the model's performance.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
